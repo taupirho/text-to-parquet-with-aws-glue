@@ -20,7 +20,7 @@ file you will convert and you’ll store the converted output file in your outpu
 
 
 
-## Set up an IAM role to allow Glue read/write from your S3 buckets
+### Set up an IAM role to allow Glue read/write from your S3 buckets
 
 Sign in to the AWS Management Console and open the IAM console at https://console.aws.amazon.com/iam/.
 
